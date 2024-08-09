@@ -1,0 +1,18 @@
+.square{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: black;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    
+}
+
+.mole{
+    background-image: url('mole.png');
+    background-size: cover;
+}
+
